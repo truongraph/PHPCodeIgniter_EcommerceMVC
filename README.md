@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2943181d-a87b-4ab0-b27f-24dfe5753f5f)
+![image](https://github.com/user-attachments/assets/7e5bae27-359f-4661-9120-81cc19c28cbd)
+![image](https://github.com/user-attachments/assets/3e3f54a9-7f0e-4582-a00e-a4ecdcb15f91)
 
 //===================================
 HƯỚNG DẪN SỬ DỤNG VÀ CHỨC NĂNG HỆ THỐNG 
