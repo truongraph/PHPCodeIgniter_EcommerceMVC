@@ -1,31 +1,35 @@
-
 # 🛒 HỆ THỐNG QUẢN LÝ SHOPPING MALL
 
 ## ⚙️ CÔNG NGHỆ SỬ DỤNG
 
 ### 🔸 Front-End
-- **HTML5**, **CSS3**
-- **Bootstrap**
-- **jQuery**, **AJAX**
+
+* **HTML5**, **CSS3**
+* **Bootstrap**
+* **jQuery**, **AJAX**
 
 ### 🔸 Back-End
-- **PHP + MySQL**
-- **CodeIgniter Framework (ver 3.1.10)**
-- **Mô hình MVC**
+
+* **PHP + MySQL**
+* **CodeIgniter Framework (ver 3.1.10)**
+* **Mô hình MVC**
 
 ---
 
 ## 🗃️ CẤU HÌNH HỆ THỐNG
 
 ### 📂 Cơ sở dữ liệu
-- File database: `shoppingmall.sql`
+
+* File database: `shoppingmall.sql`
 
 ### ⚙️ Cấu hình đường dẫn
-Mở file:  
+
+Mở file:
 `application/config/config.php`
+
 ```php
 $config['base_url'] = 'đường dẫn của máy hoặc host';
-````
+```
 
 ### ⚙️ Cấu hình kết nối Database
 
@@ -134,5 +138,6 @@ Mở file:
 ![image](https://github.com/user-attachments/assets/7e5bae27-359f-4661-9120-81cc19c28cbd)
 ![image](https://github.com/user-attachments/assets/3e3f54a9-7f0e-4582-a00e-a4ecdcb15f91)
 
+---
 
-
+### 🧾 Tác giả: *Võ Trường*
