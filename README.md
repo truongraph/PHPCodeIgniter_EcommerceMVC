@@ -22,8 +22,6 @@ File database : shoppingmall.sql
     - username: admin
     - password: 123456
 
-Liên hệ hỗ trợ: https://www.facebook.com/vtruong.it
-
 //===================================
 //===================================
 
